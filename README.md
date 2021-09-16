@@ -14,3 +14,18 @@
 
 5.placeholder属性演示![placeholder](https://github.com/ZxEnjoy/putaoInput/blob/main/gif/placeholder.gif)
 
+> 使用方法：
+```
+import xinput from './components/Input'
+<xinput ></xinput>
+```
+> 说明
+
+| 属性        | 描述               | 类型    | 默认值 |
+| ----------- | ------------------ | ------- | ------ |
+| placeholder | 期值的提示信息     | String  | ---    |
+| maxlength   | 输入文本的最大长度 | Number  | ---    |
+| disabled    | 是否可编辑         | String  | ---    |
+| min_width   | 组件最小宽度       | Number  | 300    |
+| value       | 文本值             | v-model | ---    |
+
