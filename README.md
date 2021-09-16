@@ -4,13 +4,13 @@
 
 2.支持换行符的输入。
 
-![enter]('./gif/oherline.gif)
+![enter]('https://github.com/ZxEnjoy/putaoInput/tree/main/gif/oherline.gif)
 
 3.maxlength属性演示
 
-![maxlength]('./gif/oherline.gif)
+![maxlength]('https://github.com/ZxEnjoy/putaoInput/tree/main/gif/oherline.gif)
 
-4.disabled属性演示![disabled]('./gif/oherline.gif)
+4.disabled属性演示![disabled]('https://github.com/ZxEnjoy/putaoInput/tree/main/gif/oherline.gif)
 
-5.placeholder属性演示![placeholder]('./gif/oherline.gif)
+5.placeholder属性演示![placeholder]('https://github.com/ZxEnjoy/putaoInput/tree/main/gif/oherline.gif)
 
